@@ -1,7 +1,10 @@
 # CODTECH-Task-1
-Name: SAMBHAVI GAIKWAD 
-Company: CODTECH IT SOLUTIONS 
+Name: SAMBHAVI GAIKWAD
+
+Company: CODTECH IT SOLUTIONS
+
 Domain: C++ 
+
 Duration:JULY TO AUGUST 2025
 
 Objective
